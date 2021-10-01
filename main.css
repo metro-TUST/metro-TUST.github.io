@@ -1,6 +1,6 @@
 @charset "utf=8";
 body{
-  background-color: lightyellow;
+  background-color: white;
 }
 
 h1,h2 {
@@ -98,7 +98,7 @@ svg {
   width: 80%;
 }
 .left-navi {
-  background-color: blue;
+  background-color: darkblue;
   color: #fff;
   width: 20%;
   float: right;
@@ -106,7 +106,7 @@ svg {
   margin-top: 64px;
 }
 .right-navi {
-  background-color: blueviolet;
+  background-color: teal;
   color: #fff;
   float: right;
   width: 20%;
